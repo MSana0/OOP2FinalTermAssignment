@@ -1,0 +1,9 @@
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\obj\Debug\OOP2FinalAssignment.csprojAssemblyReference.cache
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\obj\Debug\OOP2FinalAssignment.Views.BookInfo.resources
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\obj\Debug\OOP2FinalAssignment.csproj.GenerateResource.cache
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\obj\Debug\OOP2FinalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\bin\Debug\OOP2FinalAssignment.exe.config
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\bin\Debug\OOP2FinalAssignment.exe
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\bin\Debug\OOP2FinalAssignment.pdb
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\obj\Debug\OOP2FinalAssignment.exe
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalAssignment\OOP2FinalAssignment\obj\Debug\OOP2FinalAssignment.pdb
